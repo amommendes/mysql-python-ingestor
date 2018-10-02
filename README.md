@@ -59,10 +59,10 @@ A infraestrutura selecionada é descrita abaixo
   - 5: path para o arquivo
   - 6: delimitador do arquivo
 
-##Exemplo:
+## Exemplo:
 
 ![Query](https://github.com/amommendes/mysql-python-ingestor/blob/master/assets/query.png)
 
   ### To-do's:
-      - Ajustar tipos de dados para não provocar truncates ao realizar inserts
-      - A tabela sempre está sendo dropada ao ingerir dados. Optei por deixar assim por hora, para que não seja necessário deletar registros manualmente ao realizar os testes do código. 
+  - Ajustar tipos de dados para não provocar truncates ao realizar inserts
+  - A tabela sempre está sendo dropada ao ingerir dados. Optei por deixar assim por hora, para que não seja necessário deletar registros manualmente ao realizar os testes do código. 
